@@ -1,4 +1,4 @@
-Low level C++ war zone from school.
+Low level C++
 
 no fancy frameworks.  
 no hand holding abstractions.  
